@@ -27,6 +27,7 @@ Android 平台
 
 使用教程：http://www.touchsprite.com/helpdoc#/doc?id=1092
 下载地址：http://www.touchsprite.com/touchsprite
+
 脚本存放路径：/mnt/sdcard/TouchSprite/lua
 默认资源路径：/mnt/sdcard/TouchSprite/res
 脚本日志路径：/mnt/sdcard/TouchSprite/log
@@ -35,12 +36,14 @@ Android 平台
 
 脚本编辑器：TouchSprite Studio
 支持函数自动补全、函数提示、关键字高亮、文件传送、远程运行、自动缩进等常用功能，已内置所有至最新 2.3.6 版本触动精灵扩展函数，推荐使用。
+
 下载地址：http://www.touchsprite.com/tools
 使用手册：http://www.touchsprite.com/helpdoc#/doc?id=1663
 视频教程：http://v.youku.com/v_show/id_XMTgwNzY3NzAwNA==.html
 
 抓色器：TSColorPicker抓色器：TSColorPicker
 一个趁手的抓色器可以让你的脚本开发过程变的轻松愉快，在此强烈推荐触动抓色器，快捷抓点、一键生成代码、远程抓屏，让你如虎添翼。
+
 下载地址：http://www.touchsprite.com/tools
 使用手册：http://www.touchsprite.com/helpdoc#/doc?id=1657
 视频教程：http://v.youku.com/v_show/id_XMTgyNDg4NjAwNA==.html
