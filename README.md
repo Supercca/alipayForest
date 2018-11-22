@@ -3,6 +3,8 @@
 
 测试手机：红米note3高配版（已root）
 
+演示视频：https://www.bilibili.com/video/av36504584/
+
 分辨率：1080*1920
 
 像素比例：2.375:/380
