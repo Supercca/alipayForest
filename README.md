@@ -3,7 +3,7 @@
 
 测试手机：红米note3高配版（已root）
 
-演示视频：https://www.bilibili.com/video/av36504584/
+演示视频：https://www.bilibili.com/video/av36504584/   （9棵树了，嘿嘿~）
 
 分辨率：1080*1920
 
